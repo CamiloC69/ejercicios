@@ -11,6 +11,26 @@ for i in range(4):
     tortuga.forward(100)
     tortuga.right(90)
     
+for i in range(4):
+    tortuga.forward(100)
+    tortuga.left(435)
+    
+    tortuga.forward(100)
+    tortuga.left(435)
+    
+    tortuga.forward(100)
+    tortuga.left(435)
+    
+    tortuga.forward(100)
+    tortuga.left(435)
+    
+    tortuga.forward(100)
+    tortuga.left(435)
+    
+    tortuga.forward(100)
+    tortuga.left(435)
+    
+
 # ABRE LA VENTANA DONDE MOSTRARA EL GRAFICO AUTOMATICAMENTE
 ventana.exitonclick()
 
